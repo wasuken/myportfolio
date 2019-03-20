@@ -1,0 +1,11 @@
+- name: Email
+  label: wasuken1@gmail.com
+  href: mailto:wasuken1@gmail.com
+
+- name: Github
+  label: wasuken
+  href: https://github.com/wasuken
+
+- name: Qiita
+  label: wasu
+  href: https://qiita.com/wasu
