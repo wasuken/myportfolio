@@ -18,7 +18,7 @@ query {
 `}
       render={data => <div>
                         {data.allDetailYaml
-                         .edges.map(edge=>(<div>
+                         .edges.map(edge=>(<div className="fadein-out">
                                              <h3>{edge.node.name}</h3>
                                              <p>{edge.node.desc}</p>
                                            </div>))

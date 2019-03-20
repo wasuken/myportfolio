@@ -19,7 +19,7 @@ query {
 `}
       render={data => <div>
                         {data.allSocialAccountsYaml
-                         .edges.map(edge=>(<p>
+                         .edges.map(edge=>(<p className="fadein-out">
                                              {edge.node.name}<br />
                                              <a href={edge.node.href}>{edge.node.label}</a><br />
                                            </p>
