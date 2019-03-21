@@ -1,1 +1,1 @@
-{"data":{"allDetailYaml":{"edges":[{"node":{"name":"SkillFromJob","desc":"Java/PHP[FuelPHP]"}},{"node":{"name":"WhileStudying","desc":"Haskell/Common Lisp/JavaScript[React/Redux/Next]/Go"}},{"node":{"name":"一言","desc":"技術を学ぶことが趣味であり生きがいです。"}}]}}}
+{"data":{"allDetailYaml":{"edges":[{"node":{"name":"業務で得たスキル","desc":"Java/PHP[FuelPHP]/VB.Net/VB6"}},{"node":{"name":"最近学んでる言語・フレームワーク等","desc":"Clojure/JavaScript[React/Redux/Next]/Go/Haskell/Common Lisp"}},{"node":{"name":"一言","desc":"技術を学ぶことが趣味であり生きがいです。"}}]}}}
