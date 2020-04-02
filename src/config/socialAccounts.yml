@@ -1,19 +1,15 @@
 - name: Email
-  label: wasuken1@gmail.com
-  href: mailto:wasuken1@gmail.com
+  label: wevorence@gmail.com
+  href: mailto:wevorence@gmail.com
 
 - name: Github
   label: wasuken
   href: https://github.com/wasuken
 
-- name: Qiita
-  label: wasu
-  href: https://qiita.com/wasu
-
 - name: Blog
   label: 基本的に怠惰iary
-  href: https://londone.net
+  href: https://blog.londone.net
 
-- name: scrapbox
+- name: Scrapbox
   label: 読書メモ置き場
   href: https://scrapbox.io/burden-reading/
